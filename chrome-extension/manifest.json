@@ -1,6 +1,6 @@
 {
   "name": "Hatemu",
-  "version": "0.2",
+  "version": "0.1",
   "manifest_version": 2,
   "description": "コメントを解析して可視化します",
   "permissions": [ "http://210.140.71.3:8080/" ],
